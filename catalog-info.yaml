@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: minimal-api
+  annotations:
+    github.com/project-slug: thomasnokleby/minimal-api
+spec:
+  type: other
+  lifecycle: unknown
+  owner: thomasnokleby@gmail.com
